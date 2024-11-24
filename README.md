@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Cansu and I am currently a PhD student in MBG 🧬
 <!--
 **cansuonal/cansuonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
